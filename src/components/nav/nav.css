@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&family=Ubuntu:wght@700&display=swap');
+.container{
+    background-color: #7c00ff;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+button{
+    border: none;
+    color: #f000ff;
+    background-color: #7c00ff;
+    font-family: 'Poppins', sans-serif;
+    font-size: xx-large;
+    margin-left: 25px;
+    cursor: pointer;
+}
+.home{
+    font-size: xxx-large;
+}
